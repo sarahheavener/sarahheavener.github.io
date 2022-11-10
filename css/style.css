@@ -103,10 +103,6 @@ img {
   width: 100%;
 }
 
-.a {
-
-}
-
 .c {
 
 }
@@ -163,12 +159,4 @@ footer {
   }
 img {
     height: 30vh;
-  }
-
-link:link {
-    color: #ffa500;
-  }
-
-link:hover {
-    color: yellow;
   }
