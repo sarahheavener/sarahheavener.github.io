@@ -161,10 +161,10 @@ footer {
   main {
     grid-template-columns: 1fr;
   }
-  img {
+img {
     height: 30vh;
   }
 
-h2:hover {
+.a:hover {
   color: #ffa500;
 }
