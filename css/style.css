@@ -166,6 +166,6 @@ footer {
   }
 }
 
-a:hover {
-  background color: #ffa500;
+a:link {
+  color: #ffa500;
 }
