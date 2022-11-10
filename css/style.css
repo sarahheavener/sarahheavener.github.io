@@ -165,3 +165,7 @@ footer {
     height: 30vh;
   }
 }
+
+a:hover {
+  background color: #ffa500;
+}
