@@ -165,6 +165,9 @@ img {
     height: 30vh;
   }
 
-.a:hover {
+.a:link {
   color: #ffa500;
+}
+.a:hover {
+  color: #2b96b1;
 }
