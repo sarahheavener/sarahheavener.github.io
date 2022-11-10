@@ -90,7 +90,7 @@ img {
 }
 
 .myButton:hover {
-    background-color:#e69708;
+    background-color:#ffa500;
 }
 
 .myButton:active {
@@ -164,3 +164,7 @@ footer {
   img {
     height: 30vh;
   }
+
+h2:hover {
+  color: #ffa500;
+}
