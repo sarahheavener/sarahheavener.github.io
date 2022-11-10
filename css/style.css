@@ -47,6 +47,10 @@ h2 {
   padding: 10px 0px 10px 10px;
 }
 
+a {
+  color: #2b96b1;
+}
+
 img {
   width: 100%;
   height: 50vh;
@@ -160,7 +164,3 @@ footer {
 img {
     height: 30vh;
   }
-
-a {
-  color: #2b96b1;
-}
