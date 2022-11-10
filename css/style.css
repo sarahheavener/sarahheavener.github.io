@@ -165,10 +165,10 @@ img {
     height: 30vh;
   }
 
-.h2:link {
+link:link {
     color: #ffa500;
   }
 
-.h2:hover {
+link:hover {
     color: yellow;
   }
