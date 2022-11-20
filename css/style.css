@@ -1,8 +1,8 @@
-{
+html {
   scroll-behavior: smooth;
 }
 
-{
+body {
   margin: 0;
 }
 
@@ -156,8 +156,8 @@ img {
 
 footer {
   margin-top: 44px;
-  
 }
+
 @media all and (max-width:700px) {
   main {
     grid-template-columns: 1fr;
