@@ -185,12 +185,16 @@ footer div {
   color: rgba(255, 255, 255, 0.9);
 }
 
+iframe {
+  height: 50vh;
+}
+
 @media all and (max-width:700px) {
   main {
     grid-template-columns: 1fr;
     margin: 44px auto;
   }
-img {
+img, iframe {
     height: 35vh;
   }
 }
